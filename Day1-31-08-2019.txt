@@ -1,0 +1,186 @@
+Getting started with python
+============================
+first appered in 1991
+
+Now we version 3.7+
+
+to any platform
+
+free and opensource
+
+Installation of python
+========================
+https://www.python.org/downloads/
+https://www.anaconda.com/distribution/
+https://www.jetbrains.com/pycharm/
+
+display the data
+=================
+#In python we display some data using 
+print("Welcome")
+
+Formatted output
+================
+Format
+=======
+%d--integer
+%f--float
+%s--string
+Example:
+==========
+%5.2f--->5space and 2 precision float
+>>> print("welcome to first session")
+welcome to first session
+>>> print(2+3)
+5
+>>> print("welcome",2+3)
+welcome 5
+>>> print("Name Marks Age")
+Name Marks Age
+>>> print("%s %14.2f %11d"%("azar",80.98,27))
+azar          80.98          27
+>>> 
+Variables
+========
+A varibles points to the value in memory
+Automatically the variable integer or float or string
+
+a=10
+
+b=2.5
+
+name="the"
+
+>>> name="mohamed"
+>>> name
+'mohamed'
+>>> a=2.5
+>>> a
+2.5
+>>> b=23
+>>> b
+23
+>>> type(name)
+<class 'str'>
+>>> type(a)
+<class 'float'>
+>>> type(b)
+<class 'int'>
+
+Datatype in python:
+====================
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+Numbers-->Integer-->Boolean(True,false),float
+Strings
+Tuples
+Lists
+Dictionary
+Coversion Function
+====================
+To covert a character value to ASCII code the ord()
+To covert ASCII code to a character chr()
+
+ord("A")
+67
+chr(97)
+a
+A--
+B--
+a--
+
+Operators
+=========
+--->operators with of two operand
+--->a+b
+--->a is an operand
+--->b is an operand
+--->+ is an operator
+
+different operators:
+=====================
+1.Arithmetic operators
+** Exponent
+* multiplication
+/ Division
+% Modules
++ Addition
+- Sub
+2.comparsion operators
+== check equality
+< less than
+<= less than equal to
+>= greater than equal to
+> greater
+!= not equal
+3.Assigment operators
+= (x=y)
++= (x+=x) is equivalent to x=x+y
+-= (x-=x) is equivalent to x=x-y
+*= (x*=x) x=x*y
+/= (x/=x) x=x/y
+**=(x**=x) x=x**y
+4.bitwise operators
+& bitwise AND
+| bitwise OR
+<< Left shit operator
+>> Right Shit operator(try this)
+~ XOR
+^ one complement
+5.Logical operators
+and 
+or
+not
+6.Membership operators
+list1=[10,20,30]
+for i in list1://sample
+in-->Return True if the specified operand is found in the sequence
+not in-->Return True if the specified operand is not found in the 
+sequence
+7.identity operators
+is-->Return True if two variables point to the same object and False
+is not-->Return False if two variables point to the same object True
+id()function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,162 @@
+Control Statement
+==================
+Give the discount for some specified  customer
+1.Some membership
+  >10000--->ok
+2.<10000--->discount of total product buying
+
+Branching-->single time executed the process
+Looping--->itert-->cycle process-->Multiple process will be executed
+
+Branching
+=========
+if statement
+if else statement
+nested if else statement
+else if ladder statement
+Syntax:
+1.
+if(exp1):(True)
+  //stmt
+2.
+if(exp1):(True)
+  //stmt
+else:(False)
+  //stmt
+3.
+if(exp-1):(True)(false)
+  if(exp-2):(True)/(false)
+   //stmt-1
+  else:
+   //stmt-2
+else:
+  //stmt-3
+4.
+if(exp-1):(true)/(false)
+  //stmt
+elif(exp-2):(true)/(false) #In other programming langus..else if()
+ //stmt
+elif(exp-3):(true)/(false)
+ //stmt
+else:
+ //stmt
+5.
+In python Switch not working
+Looping Statement:
+=====================
+Looping process to be working as number of time we be executed..
+1.Definite--->n=1,n=5,n>10(),n<5()n--/n++(),range(10)
+2.Indefinite -->infinate
+
+for loop:
+=========
+for <variable>in range(<integer of expression>):
+    <<stm1>>
+    <<stm2>>
+
+
+While loop:
+============
+inital value
+while(exp1):
+  //stmt
+  //differenc(inc/drc)
+
+do while loop:--(Task-2)
+=================
+I/p=n=5
+O/p=1,2,3,4,5 
+Its to be apply in do while loop its working
+suppose not working means what the problem occured..
+inital value
+do
+ //stmt
+ //difference
+while(i>5):
+
+Task-3
+========
+I/p==>n=123
+o/p==>1+2+3==>6
+to while loop working fine
+
+Task-4
+=======
+
+Executed on for loop
+
+3*2*1
+I/p==>n=3
+o/p==>6
+4*3*2*1
+I/p==>n=4
+o/p==>24
+
+Task-5
+=======
+Reverse the number
+I/p==>n=123
+O/p==>321
+
+Task-6
+=========
+ArmStrong number
+
+i/p-->n=153
+o/p-->this is an armstrong
+
+i/p-->n=202
+o/p-->not a armstrong
+
+n=153==>153(armstrong)
+n=202==>16(not a armstrong)
+
+break and continue statement
+
+
+String handling
+================
+I/p=name="hai"
+o/p=>iah==>sorted()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

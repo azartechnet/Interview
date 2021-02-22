@@ -1,0 +1,16 @@
+Different Modes:
+===================
+r->Reading a files
+w-->Writing the files
+a-->Append the files
+
+r+-->opens a file for reading and writing,this mode places the pointer 
+at the beginning of the file.
+w+-->opens a file for reading and writing
+     1.If the file doesnot exist,a new file is created
+     2.If the file exists,the file is overwritten
+a+-->opens a file for appending and reading
+     1.If the file doesn't exist,it created a new file
+     2.If the file already exist,the pointer is placed at the end of the file
+
+seek()-->point out some of the files..other programming

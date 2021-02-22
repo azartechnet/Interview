@@ -1,0 +1,52 @@
+while(exp1)
+  //stmt
+  //incr/drc
+
+for i in cnd:
+  //stmt
+  //inr/drc
+=============================
+Python String
+================
+task1
+======
+name[::2]#What is the output
+
+StripMethods:
+=============
+ A StripMethod as to remove undesirable character of end and
+beginning of the String.
+
+rstrip()-->right strip
+lstrip()-->left strip
+strip()--->both side will working
+
+Split Methods:
+==============
+-->To Split a String into parts and it will be take as an desirable
+part.
+
+stringvaiable.split("delimiter",n)
+
+String Justify Methods:
+===========================
+str1="Mohan"
+str1.ljust(15,"#")
+Mohan#####..
+#What is the output
+
+str1.zfill(width)#Task2
+
+================================
+
+
+
+
+
+
+
+
+
+
+
+
